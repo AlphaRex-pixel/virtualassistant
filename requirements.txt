@@ -3,6 +3,6 @@ datetime==4.4
 wikipedia==1.4.0
 pyautogui==0.9.52
 psutil==5.7.3
-speech_recognition==3.8.1
+speech_recognition
 os
 webbrowser
